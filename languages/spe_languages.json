@@ -17,6 +17,12 @@
             "iso": "it",
             "emoji": "🇮🇹",
             "APIURL": "https://saveplanetearth.io/translations/it/common.json"
+        },
+        {
+            "label": "Korean",
+            "iso": "ko",
+            "emoji": "🇰🇷",
+            "APIURL": "https://saveplanetearth.io/translations/ko/common.json"
         }
     ]
 }
