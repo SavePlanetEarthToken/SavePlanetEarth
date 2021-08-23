@@ -7,9 +7,9 @@
         "aboutLabel": "About",
         "documents": "Documentos",
         "whitepaper": "Whitepaper",
-        "certik": "Certik Auditoria",
+        "certik": "Auditoria Certik",
         "techrate": "TechRate Auditoria",
-        "roadmap": "Plano de Ação",
+        "roadmap": "Roadmap",
         "roadmapLabel": "Roadmap",
         "tokenomics": "Tokenomics",
         "tokenomicsLabel": "Tokenomics",
@@ -44,207 +44,207 @@
         "burntTokensDescription": "Total de SPE permanentemente queimados"
     },
     "cciIndex": {
-        "title": "CCI Index",
-        "explanation": "By using tonnes sequestered equivalent (101,015,342 Trees have been contracted to be planted and monitored, affiliating 1 tCO2e for each tree on average), we are able to calculate the CCI value.\nCCI of $SPE = How much carbon we have sequestered, divided by SPE tokens in circulation.",
-        "description": "The above model is reflective on all of the trees being monitored after they have been planted, and takes advantage of compounding effect. As we sequester carbon, we have more credits to be sold, from which the proceeds go to sequestering additional carbon and in turn producing more carbon credits, creating a positive compounding effect."
+        "title": "Índice CCI",
+        "explanation": "Utilizando toneladas sequestradas equivalentes (101.015.342 árvores foram contratadas para serem plantadas e monitorizadas, associando em média 1 tCO2e para cada árvore), podemos calcular o valor CCI.\nCCI de $SPE = Quanto carbono sequestramos, dividido por tokens SPE em circulação.",
+        "description": "O modelo acima é reflexivo em todas as árvores que são acompanhadas depois de terem sido plantadas, e tira benefício do efeito de composição. À medida que sequestramos carbono, temos mais créditos a vender, dos quais as receitas vão para sequestrar carbono adicional e, por sua vez, produzir mais créditos de carbono, criando um efeito composto positivo."
     },
     "globalWarmingIndex": {
-        "title": "Global Warming Index",
-        "asOf": "As of",
-        "description": "This number shows an up-to-the-second assessment of human-induced global warming since the second half of the 19th century. In the 2015 Paris Agreement countries around the world agreed to work towards keeping global warming below 2 degrees – and ideally at 1.5 degrees – in order to avoid the worst impacts of climate change.",
-        "source": "Source"
+        "title": "Índice de Aquecimento Global",
+        "asOf": "A partir de",
+        "description": "Este número mostra uma avaliação atualizada do aquecimento global induzido pelo homem desde a segunda metade do século XIX. No Acordo de Paris de 2015, os países de todo o mundo concordaram em trabalhar para manter o aquecimento global abaixo dos 2 graus - e idealmente a 1,5 graus - a fim de evitar os piores impactos das mudanças climáticas.",
+        "source": "Fonte"
     },
     "whitePaperSection": {
-        "description1": "Interested to find out more about Save Planet Earth?",
-        "description2": "Everything you need to know is written in our White Paper.",
+        "description1": "Interessado em encontrar mais sobre o Save Planet Earth?",
+        "description2": "Tudo que você precisa saber está escrito em nosso Whipe Paper.",
         "download": "Download White Paper"
     },
     "roadmap": {
         "title": "Road Map",
         "roadmapData": [
             {
-                "title": "Phase 01",
+                "title": "Fase 01",
                 "year": "2021",
                 "image": "rocket",
                 "lottieAssetPath": "assets/animations/roadmap-phase1-rocket.json",
                 "content": [
                     {
-                        "heading": "DxSale Presale",
-                        "text": "DxSale fair presale took place with 125BNB hard cap and 1BNB maximum buy in.",
+                        "heading": "Pré venda no DxSale",
+                        "text": "'Fair' Pré venda na DxSale realizou-se com 125BNB hard cap e de no máximo 1BNB de compra individual.",
                         "status": "Done"
                     },
                     {
-                        "heading": "Launch to BSC MainNet",
-                        "text": "Initial fair launch to BSC MainNet took place on April 9th, 2021.",
+                        "heading": "Lançamento na BSC MainNet",
+                        "text": "Lançamento Inicial na rede da BSC realizou-se no dia 9 de Abril de 2021.",
                         "status": "Done"
                     },
                     {
-                        "heading": "Liquidity Lock",
-                        "text": "Liquidity will be locked until April 9th 2026 via DxSale, making the token rug-pull free and safe.",
+                        "heading": "Líquidez Trancada",
+                        "text": "A liquidez está trancada até o dia 9 de Abril de 2026 no site do DxSale, fazendo o token ser à prova de manipulações e seguro.",
                         "status": "Done"
                     },
                     {
-                        "heading": "Renouncement of Ownership of the Smart Contract",
-                        "text": "Ownership of the smart contract will be renounced, in turn making it so modifications are unable to be made and 100% safe.",
+                        "heading": "Renúncia à propriedade do Smart Contract",
+                        "text": "A propriedade do smart contract foi renunciada, por sua vez, fazendo-o de modo que as modificações não possam mais ser realizadas e sejam 100% seguras.",
                         "status": "Done"
                     },
                     {
-                        "heading": "Multiple Audits",
-                        "text": "Smart Contract Audits will be applied for & completed by several auditing groups, while in the waiting list for our industry leading Certik Audit.",
+                        "heading": "Multiplas Auditorias",
+                        "text": "As Auditorias Smart Contract serão solicitadas e completadas por vários grupos de auditoria, enquanto na lista de espera para a auditoria realizada pela Certik, líder no segmento.",
                         "status": "Done"
                     },
                     {
                         "heading": "CoinGecko & CoinMarketCap",
-                        "text": "Multiple listing services including but not limited to: CoinGecko & CoinMarketCap will be applied for.",
+                        "text": "Diversas aplicações a serviços de listagens de tokens, que inclui:CoinGecko & CoinMarketCap, mas não limitados somente a eles.",
                         "status": "Done"
                     },
                     {
-                        "heading": "Exchange Applications",
-                        "text": "Multiple exchanges will be applied for including but not limited to WhiteBIT and BitMart.",
+                        "heading": "Aplicações em Exchange",
+                        "text": "Serão realizadas diversas aplicações em exchanges, que inclui: WhiteBIT and BitMart, mas não limitados a somente elas.",
                         "status": "Done"
                     }
                 ]
             },
             {
-                "title": "Phase 02",
+                "title": "Fase 02",
                 "year": "2021",
                 "image": "phone",
                 "lottieAssetPath": "assets/animations/roadmap-phase2-phone.json",
                 "content": [
                     {
-                        "heading": "Development/Release of v1 SavePlanetEarth Android/iOS App",
-                        "text": "Development and launch of the first version iOS and Android app with a variety of initial basic features and ongoing updates.",
+                        "heading": "Desenvolvimento/Lançamento da v1 SavePlanetEarth Android/iOS App",
+                        "text": "Desenvolvimento e lançamento da primeira versão da app iOS e Android com uma variedade de características básicas iniciais e atualizações contínuas.",
                         "status": "InProgress"
                     },
                     {
-                        "heading": "Development of revolutionary v2 SavePlanetEarth Android/iOS App",
-                        "text": "The development of v2 of the SavePlanetEarth app will continue until it's launch in early Q3. The app will have many revolutionary features mainly regarding reforestation and carbon sequestration/credits.",
+                        "heading": "Desenvolvimento da revolucionária v2 SavePlanetEarth Android/iOS App",
+                        "text": "O desenvolvimento da v2 do app SavePlanetEarth vai continuar até ao seu lançamento no início do Q3. O app terá muitas características revolucionárias principalmente no que diz respeito à reflorestamento e sequestro/créditos de carbono.",
                         "status": "InProgress"
                     },
                     {
-                        "heading": "Carbon Sequestration",
-                        "text": "Participate in planting trees, nurseries, and recycling around the world.\nRecycling plastics from ocean/beach clean-up in the Maldives (SOON)",
+                        "heading": "Sequestro de Carbono",
+                        "text": "Participar na plantação de árvores, viveiros e reciclagem em todo o mundo.\nReciclagem de plásticos da limpeza oceânica/praia nas Maldivas (BREVE)",
                         "status": "InProgress"
                     },
                     {
-                        "heading": "Partnerships with Nation-States",
-                        "text": "Partnerships with specific countries and their governments, and various NGOs to bring in lasting solutions to fight climate change, rising sea levels, and other environmental perils.\nSri Lanka – 100,000,000 Tree initiative \nSri Lanka State Plantations Corporation , JEDB , Kotagala Plantations PLC, Maturata Plantations\nForestry Department, Sri Lanka Military\nCentral Environment Authority \nUNDP Sri Lanka\nMaldives – 1,000,000 Tree initiative\nHDC Maldives , MITDC Maldives \nSave The Beach, Advocating Rights for Children (ARC) \n(Ongoing discussions with other nations and NGOs)",
+                        "heading": "Parcerias com os Estados-Nações",
+                        "text": "Parcerias com países específicos e respectivos governos, e várias ONG para trazer soluções duradouras para combater as alterações climáticas, a elevação do nível do mar, e outros perigos ambientais.\nSri Lanka – 100,000,000 Tree initiative \nSri Lanka State Plantations Corporation , JEDB , Kotagala Plantations PLC, Maturata Plantations\nForestry Department, Sri Lanka Military\nCentral Environment Authority \nUNDP Sri Lanka\nMaldives – 1,000,000 Tree initiative\nHDC Maldives , MITDC Maldives \nSave The Beach, Advocating Rights for Children (ARC) \n(Discussões em andamento com outras nações e ONGs)",
                         "status": "InProgress"
                     },
                     {
-                        "heading": "SavePlanetEarth Merch",
-                        "text": "$SPE merch will be available late Q2 with a store on the website, the community will be able to buy a variety of articles with $SPE tokens or another cryptocurrency. Plastics recovered from beach/ocean cleaning activities will be used for the merchandise, from which the profits will be reinvested into the project. ",
+                        "heading": "SavePlanetEarth Merchan",
+                        "text": "$SPE merchan estará disponível no final do Q2 com uma loja no website, a comunidade poderá comprar uma variedade de produtos com tokens $SPE ou outra criptomoeda. Os plásticos recuperados das atividades de limpeza da praia/oceano serão utilizados para a mercadoria, da qual os lucros serão reinvestidos no projeto. ",
                         "status": "InProgress"
                     },
                     {
-                        "heading": "Exchange Listings",
-                        "text": "SavePlanetEarth will list on several exchanges in Q2\nBitmart  - WhiteBIT  - CoinTiger  - Hotbit \nIn talks with other exchange",
+                        "heading": "Listagem em Exchange",
+                        "text": "SavePlanetEarth será listada em diversas exchanges no Q2\nBitmart  - WhiteBIT  - CoinTiger  - Hotbit \nAinda em conversas com outras exchanges",
                         "status": "InProgress"
                     },
                     {
                         "heading": "Tier 1 Exchange Applications",
-                        "text": "Now that SavePlanetEarth will be more established in Q2, multiple Tier 1 Exchanges will be applied to including but not limited to: Gate.io, Huobi, Kucoin, Binance, Coinbase",
+                        "text": "Agora que a SavePlanetEarth estará mais estabilizada no Q2, será submetida a listagem em diversas exchanges 'Tier 1', incluindo mas se limitando somente por: Gate.io, Huobi, Kucoin, Binance, Coinbase",
                         "status": "InProgress"
                     }
                 ]
             },
             {
-                "title": "Phase 03",
+                "title": "Fase 03",
                 "year": "2021",
                 "image": "tree",
                 "lottieAssetPath": "assets/animations/roadmap-phase3-tree.json",
                 "content": [
                     {
-                        "heading": "Launch of Revolutionary v2 SavePlanetEarth Android/iOS App",
-                        "text": "In early Q3, SavePlanetEarth plans to launch the next version of the $SPE Android/iOS app. All of the features from the v1 app will be included plus a wide array of new and revolutionary aspects of which the world has never seen, mainly regarding extremely detailed reforestation metrics and carbon sequestration/credits calculations and certifications.",
+                        "heading": "Lançamento da revolucionária v2 SavePlanetEarth Android/iOS App",
+                        "text": "No início do Q3, SavePlanetEarth pretende lançar a próxima versão do app $SPE Android/iOS. Todas as características do app v1 serão incluídas além de uma vasta gama de novos e revolucionários aspectos dos quais o mundo nunca viu, principalmente no que diz respeito a métricas de reflorestamento extremamente detalhadas, cálculos e certificações de sequestro/créditos de carbono.",
                         "status": ""
                     },
                     {
-                        "heading": "Tier 1 Exchange Listings",
-                        "text": "SavePlanetEarth will list on multiple tier 1 exchanges.",
+                        "heading": "Listagem em 'Tier 1' Exchange",
+                        "text": "SavePlanetEarth será listada em diversas tier 1 exchanges.",
                         "status": ""
                     },
                     {
-                        "heading": "Carbon Credit Certification",
-                        "text": "SavePlanetEarth will apply to several carbon credit certification bodies to register $SPE to be able to be utilized as carbon credits. $SPE could then be used to offset corporate carbon footprints. This is an ever-growing market that will be worth trillions of dollars in the near future.",
+                        "heading": "Certificação de Crédito de Carbono",
+                        "text": "SavePlanetEarth irá candidatar-se a vários órgãos de certificação de créditos de carbono para inscrever $SPE a fim de poder ser utilizada como créditos de carbono. O $SPE poderá então ser utilizado para compensar as pegadas de carbono das empresas. Este é um mercado em constante crescimento que valerá trilhões de dólares em um futuro próximo.",
                         "status": "InProgress"
                     },
                     {
-                        "heading": "Offset Incentives",
-                        "text": "After certification, another way companies & individuals will be able to offset their carbon footprint is by donating to plant trees and receiving a Carbon Neutral/Negative Virtual NFT certificate. NFTs will be minted on a carbon neutral/negative blockchain TBA in Q3 as technology is rapidly evolving",
+                        "heading": "Incentivos à compensação",
+                        "text": "Após a certificação, outra forma das empresas e dos indivíduos serem capazes de compensar a sua pegada de carbono é doando para o plantio de árvores e recebendo um certificado virtual NFT de Carbono Neutro/Negativo. As NFTs serão cunhadas numa cadeia TBA neutra/negativa de carbono no Q3, uma vez que a tecnologia está em rápida evolução.",
                         "status": ""
                     },
                     {
-                        "heading": "Minting of original NFTs",
-                        "text": "Commissioning known artists for pro bono NFT auctions in which profits will be reinvested into the carbon sequestering aspect of our project. NFTs will be minted on a carbon neutral/negative blockchain TBA in Q3 as technology is rapidly evolving",
+                        "heading": "Cunhagem de NFTs originais",
+                        "text": "Contratação de artistas conhecidos para leilões pro bono de NFT nos quais os lucros serão reinvestidos no aspecto do sequestro de carbono do nosso projeto. As NFTs serão cunhadas numa cadeia TBA neutra/negativa de carbono no Q3, uma vez que a tecnologia está em rápida evolução",
                         "status": ""
                     },
                     {
-                        "heading": "Continued Carbon Sequestration and Ever-Expanding Partnerships with Nation-States",
-                        "text": "Continued participation in planting trees, nurseries, and recycling around the world. Many more countries and NGOs will be added to a growing list and we will continue making a dent in climate change together.",
+                        "heading": "Sequestro contínuo de carbono e parcerias sempre em expansão com os Estados e nações",
+                        "text": "Participação contínua na plantação de árvores, viveiros, e reciclagem em todo o mundo. Muitos mais países e ONG serão acrescentados a uma lista crescente e continuaremos a fazer uma profunda mudança climática em conjunto.",
                         "status": ""
                     }
                 ]
             },
             {
-                "title": "Phase 04",
+                "title": "Fase 04",
                 "year": "2022",
                 "image": "contact",
                 "lottieAssetPath": "assets/animations/roadmap-phase4-contact.json",
                 "content": [
                     {
-                        "heading": "Strategic Connections",
-                        "text": "Coordinate with crucial entities in the recycling industry involving use of metal, plastics, municipal solid waste, and other components that can potentially cause pollution. For example, potential cadmium and heavy metal intoxication from metals and so on need to be strategically planned out so that climate change solutions themselves un-thoughtfully instituted will not bear additional burdens in the fight against Global Climate Change",
+                        "heading": "Conexões Estratégicas",
+                        "text": "Coordenar com entidades cruciais na indústria da reciclagem envolvendo a utilização de metal, plásticos, resíduos sólidos urbanos, e outros componentes que possam potencialmente causar poluição. Por exemplo, o cádmio potencial e a intoxicação por metais pesados, etc., precisam ser estrategicamente planejados de modo a que as próprias soluções para as alterações climáticas não sejam instituídas de forma impensada e não suportem encargos adicionais na luta contra as alterações climáticas globais.",
                         "status": ""
                     },
                     {
-                        "heading": "Global Adoption",
-                        "text": "Widespread partnerships with nonprofits, nation-states, & world-renowned entities that are active in averting waste pileups and combating climate change.",
+                        "heading": "Adoção Global",
+                        "text": "Parcerias generalizadas com entidades sem fins lucrativos, estados-nação, & entidades de renome mundial que atuam na prevenção de acumulações de resíduos e no combate às alterações climáticas.",
                         "status": ""
                     },
                     {
-                        "heading": "Future Trading Mechanisms",
-                        "text": "Innovative technology implemented in the renewable energy sector to tackle waste, pollution, and use of resource materials will inevitably give rise to unwelcome (new) pollution streams. For example, solar cells at the end of their lifecycle can easily give rise to the build-up of metal poison and other toxins in the soil. These new pollution streams will give birth to a new era of clean-up processes and legislation in which SavePlanetEarth will be at the forefront of, creating opportunities with future trading mechanisms. (Further details to follow).",
+                        "heading": "Mecanismos Futuros de Troca",
+                        "text": "A tecnologia inovadora implementada no setor das energias renováveis para combater o desperdício, a poluição e a utilização de recursos materiais dará inevitavelmente origem a (novos) fluxos de poluição indesejáveis. Por exemplo, as células solares no fim do seu ciclo de vida podem facilmente dar origem à acumulação de veneno metálico e outras toxinas no solo. Estes novos fluxos de poluição darão origem a uma nova era de processos de limpeza e legislação na qual o SavePlanetEarth estará na vanguarda, criando oportunidades com futuros mecanismos comerciais (Mais informações a seguir).",
                         "status": ""
                     },
                     {
-                        "heading": "More Tier 1 Exchange Listings",
-                        "text": "Applications and listings to tier 1 exchanges will be an ongoing process.",
+                        "heading": "Mais listagens em 'Tier 1' Exchange",
+                        "text": "Aplicações em exchanges Tier 1 será um processo recorrente e contínuo.",
                         "status": ""
                     },
                     {
-                        "heading": "Carbon Exchanges",
-                        "text": "As we become certified, we will also be able to apply to and list on Carbon Credit Exchanges, in turn exchanging our carbon credits for funding which will be reinvested into sequestering more and more carbon, thus creating a sustainable model for fighting global climate change and helping to Save Planet Earth.",
+                        "heading": "Exchanges de Carbono",
+                        "text": "À medida que formos certificados, poderemos também candidatar-nos e listar nas Bolsas de Crédito de Carbono, por sua vez trocando os nossos créditos de carbono por financiamentos que serão reinvestidos em sequestrar cada vez mais carbono, criando assim um modelo sustentável de combate às alterações climáticas globais e ajudando a Salvar o Planeta Terra.",
                         "status": ""
                     }
                 ]
             }
         ],
-        "roadmapEndText": "And beyond..."
+        "roadmapEndText": "E além..."
     },
     "tokenomics": {
-        "title": "Basic Tokenomics",
-        "hint": "Press the tabs to reveal Tokenomics",
-        "totalSupplyTitle": "Total Supply",
-        "totalSupplyDescription": "The total amount of tokens created",
-        "burntTokensTitle": "Tokens Burnt",
-        "burntTokensDescription": "Total amount of SPE permanently burned",
-        "preSaleTitle": "Pre Sale",
-        "preSaleDescription": "Tokens not sold were burnt",
+        "title": "Tokenomics Básicos",
+        "hint": "Pressione as abas para revelar Tokenomics",
+        "totalSupplyTitle": "Fornecimento Total",
+        "totalSupplyDescription": "Quantidade total de tokens criados",
+        "burntTokensTitle": "Tokens Queimados",
+        "burntTokensDescription": "Quantidade total de SPE permanentemente queimado",
+        "preSaleTitle": "Pré Venda",
+        "preSaleDescription": "Tokens não vendidos serão queimados",
         "pcsLPTitle": "PCS LP",
-        "pcsLPDescription": "Pancake Swap Listing Pool",
-        "rewardsTitle": "Rewards",
-        "rewardsDescription": "We reward our holders! 2% of each transaction goes instantly to the SPE holders, proportional to their holdings."
+        "pcsLPDescription": "Listagem na Pancake Swap",
+        "rewardsTitle": "Recompensas",
+        "rewardsDescription": "Nós recompensamos nossos holders! 2% de cada transação vai direto aos SPE holders, proporcional ao quanto de tokens eles possuem."
     },
     "team": {
-        "title": "Core Team",
-        "description": "Moving forward with a fully doxxed team is high priority for us. We want holders and community to feel confident in their investments and hope to provide as much transparency as possible!",
+        "title": "Time Princial",
+        "description": "Avançar com uma equipe totalmente exposta é para nós uma alta prioridade. Queremos que os holders e a comunidade se sintam confiantes nos seus investimentos e esperamos proporcionar a maior transparência possível!",
         "members": [
             {
                 "imageURL": "https://raw.githubusercontent.com/savePlanetEarthToken/SavePlanetEarth/main/assets/team/imran.jpeg",
                 "name": "Imran Ali",
-                "designation": "Founder",
-                "description": "A qualified Prince II Practitioner who has minimum 10 years’ experience in a senior management role with both external audit and in-house financial management experience gained in high-growth organisations including Citibank, National Health Service and UK and foreign government institutions.",
+                "designation": "Fundador",
+                "description": "Um Prince II profissionamente qualificado, com um mínimo de 10 anos de experiência em funções de gestão de alto nível, tanto em auditoria externa como em gestão financeira interna, adquirida em organizações de elevado crescimento, incluindo o Citibank, o National Health Service e instituições governamentais britânicas e estrangeiras.",
                 "socials": [
                     {
                         "imageURL": "https://raw.githubusercontent.com/savePlanetEarthToken/SavePlanetEarth/main/assets/socials/linkedin.png",
@@ -257,8 +257,8 @@
             {
                 "imageURL": "https://raw.githubusercontent.com/savePlanetEarthToken/SavePlanetEarth/main/assets/team/priyantha.jpeg",
                 "name": "Dr. Priyantha Wijesooriya",
-                "designation": "Team Member",
-                "description": "Dr.Priyantha Wijesooriya is a US and Sri Lanka trained energy engineer (BSc and MS in Energy Engineering, PhD in Resource Economics & Inter-generational Equities). He is a Rotary Foundation Scholar to the University of Massachusetts and has been pioneering Renewable Energy Projects and Sustainable Development for years.",
+                "designation": "Membro do time",
+                "description": "Dr.Priyantha Wijesooriya é um engenheiro de energia formado nos EUA e no Sri Lanka (BSc e MS em Engenharia Energética, PhD em Economia de Recursos & Equidades Inter-geracionais). É bolsista da Fundação Rotary na Universidade de Massachusetts e tem sido pioneiro em Projetos de Energias Renováveis e Desenvolvimento Sustentável durante anos.",
                 "socials": [
                     {
                         "imageURL": "https://raw.githubusercontent.com/savePlanetEarthToken/SavePlanetEarth/main/assets/socials/linkedin.png",
@@ -272,7 +272,7 @@
                 "imageURL": "https://raw.githubusercontent.com/savePlanetEarthToken/SavePlanetEarth/main/assets/team/ccc.png",
                 "name": "Carbon Consulting Company",
                 "designation": "",
-                "description": "The Carbon Consulting Company is one of South Asia's leading provider of Corporate Sustainability Advisory Services. Initially the company was set up by a team of 'green visionaries' to bring the concept of Carbon Footprinting and offsetting into the local marketplace. The company has expanded into many other aspects of environmental sustainability, Water Footprinting , Bio-diversity Assessment and Waste Management to name a few. CCC operations have expanded regionally and internationally to encompass The Maldives and India as well as other continents - paving the way for CCC to take an international role in sustainability advocacy.",
+                "description": "A Carbon Consulting Company é um dos principais fornecedores do Sul da Ásia de Serviços de Consultoria em Sustentabilidade Empresarial. Inicialmente, a empresa foi criada por uma equipe de 'visionários verdes' para trazer o conceito de Pegada de Carbono e de compensação para o mercado local. A empresa expandiu-se para muitos outros aspectos da sustentabilidade ambiental, Pegada de Água, Avaliação da Biodiversidade e Gestão de Resíduos, para citar alguns. As operações da CCC expandiram-se regional e internacionalmente para abranger as Maldivas e a Índia, bem como outros continentes - abrindo caminho para que a CCC assuma um papel internacional na defesa da sustentabilidade.",
                 "socials": [
                     {
                         "imageURL": "https://raw.githubusercontent.com/savePlanetEarthToken/SavePlanetEarth/main/assets/socials/website.png",
@@ -286,7 +286,7 @@
                 "imageURL": "https://raw.githubusercontent.com/savePlanetEarthToken/SavePlanetEarth/main/assets/team/mohan.jpg",
                 "name": "Prof. Mohan Munasinghe",
                 "designation": "",
-                "description": "• Former Vice-Chair of the Intergovernmental Panel on Climate Change (IPCC), which shared the 2007 Nobel Peace Prize with former Vice-President of the United States Al Gore.\n• Founder Chairman of the Munasinghe Institute for Development (MInD) and MInD Group.\n• Professor of Sustainable Development Studies at various international universities including the University of Manchester, Peking University and Federal University Brazil, and is a Senior Advisor to the Government of Sri Lanka and formerly the US Government.",
+                "description": "• Antigo Vice-Presidente do Painel Intergovernamental sobre Alterações Climáticas (IPCC), que partilhou o Prémio Nobel da Paz 2007 com o antigo Vice-Presidente dos Estados Unidos Al Gore.\n- Presidente Fundador do Instituto Munasinghe para o Desenvolvimento (MInD) e do Grupo MInD.\n- Professor de Estudos de Desenvolvimento Sustentável em várias universidades internacionais incluindo a Universidade de Manchester, Universidade de Pequim e Universidade Federal do Pará no Brasil, e é Conselheiro Sénior do Governo do Sri Lanka e antigo Governo dos EUA.",
                 "socials": [
                     {
                         "imageURL": "https://raw.githubusercontent.com/savePlanetEarthToken/SavePlanetEarth/main/assets/socials/website.png",
@@ -300,7 +300,7 @@
                 "imageURL": "https://raw.githubusercontent.com/savePlanetEarthToken/SavePlanetEarth/main/assets/team/sanith.jpg",
                 "name": "Sanith de Silva Wijeyeratne",
                 "designation": "",
-                "description": "After assuming responsibility for the overall management and strategic direction of the company Sanith has guided the company to not only become the most recognised provider of carbon assessment, mitigation and offset solutions, but also to become known for its expertise in a diverse array of sustainability solutions.",
+                "description": "Após assumir a responsabilidade pela gestão global e direcção estratégica da empresa, a Sanith orientou a empresa não só para se tornar o fornecedor mais reconhecido de soluções de avaliação, mitigação e compensação de carbono, mas também para se tornar conhecida pela sua perícia num leque diversificado de soluções de sustentabilidade.",
                 "socials": [
                     {
                         "imageURL": "https://raw.githubusercontent.com/savePlanetEarthToken/SavePlanetEarth/main/assets/socials/linkedin.png",
@@ -313,8 +313,8 @@
             {
                 "imageURL": "https://raw.githubusercontent.com/savePlanetEarthToken/SavePlanetEarth/main/assets/team/salih.jpeg",
                 "name": "Sajid Salih",
-                "designation": "Product Manager",
-                "description": "Having past experience in corporate finance, project management, eCommerce and mobile platforms with startups since 2016.",
+                "designation": "Gestor de Produto",
+                "description": "Tendo experiência anterior em finanças empresariais, gestão de projetos, comércio eletrônico e plataformas móveis com startups desde 2016.",
                 "socials": [
                     {
                         "imageURL": "https://raw.githubusercontent.com/savePlanetEarthToken/SavePlanetEarth/main/assets/socials/linkedin.png",
@@ -327,8 +327,8 @@
             {
                 "imageURL": "https://raw.githubusercontent.com/savePlanetEarthToken/SavePlanetEarth/main/assets/team/rahula.jpeg",
                 "name": "Prof. Rahula Attallage",
-                "designation": "Technical Advisor",
-                "description": "Prof. Rahula Attallage holds a PhD in Energy Engineering from Ecole Nationale Superieure des Mines de Paris, France. He has worked as a Senior Professor in Mechanical Engineering in the Dept. of Mechanical Engineering, University of Moratuwa. Prof. Attalage has been awarded the Outstanding Research Award and Presidential Awards for Scientific Publications multiple times. His latest achievement is an Honorary Distinction of 'Order of the Academic Palms' award by the Government of France.",
+                "designation": "Consultor Técnico",
+                "description": "O Prof. Rahula Attallage é PhD em Engenharia Energética pela Ecole Nationale Superieure des Mines de Paris, França. Trabalhou como Professor Superior em Engenharia Mecânica no Departamento de Engenharia Mecânica da Universidade de Moratuwa. O Prof. Attalage recebeu várias vezes o Outstanding Research Award e os Presidential Awards for Scientific Publications. A sua mais recente conquista é uma Distinção Honorária de 'Ordem das Palmas Academicas' pelo Governo de França.",
                 "socials": [
                     {
                         "imageURL": "https://raw.githubusercontent.com/savePlanetEarthToken/SavePlanetEarth/main/assets/socials/linkedin.png",
@@ -341,15 +341,15 @@
             {
                 "imageURL": "https://raw.githubusercontent.com/savePlanetEarthToken/SavePlanetEarth/main/assets/team/iftikhar.jpeg",
                 "name": "Dr. Iftikhar Bokhari",
-                "designation": "Technical Advisor",
-                "description": "Over 25 years of experience in project management and a recognized track record of delivering multi million pound contracts for urban regeneration and project engineering within the UK. Specializing in energy from waste systems, integration of renewable technologies for domestic and commercial applications, research and strategic planning.",
+                "designation": "Consultor Técnico",
+                "description": "Mais de 25 anos de experiência na gestão de projetos e um histórico reconhecido de entrega de contratos de vários milhões de libras para regeneração urbana e engenharia de projetos no Reino Unido. Especializado em energia proveniente de sistemas de resíduos, integração de tecnologias renováveis para aplicações domésticas e comerciais, investigação e planeamento estratégico.",
                 "socials": []
             },
             {
                 "imageURL": "https://raw.githubusercontent.com/savePlanetEarthToken/SavePlanetEarth/main/assets/team/graham.jpeg",
                 "name": "Graham Walwyn",
-                "designation": "Technical Advisor",
-                "description": "Senior Project Engineer - specializing in electrical design, costing and procurement. Worked on a range of multi million pound developments which range from medical, commercial and domestic systems. Also specializing in the design,installation and maintenance of renewable energy technology.",
+                "designation": "Consultor Técnico",
+                "description": "Engenheiro Sênior de Projetos - especializado em desenho elétrico, cálculo de custos e aquisições. Trabalhou numa série de desenvolvimentos de vários milhões de libras que vão desde sistemas médicos, comerciais e domésticos. Especializado também na concepção, instalação e manutenção de tecnologia de energias renováveis.",
                 "socials": [
                     {
                         "imageURL": "https://raw.githubusercontent.com/savePlanetEarthToken/SavePlanetEarth/main/assets/socials/linkedin.png",
@@ -362,15 +362,15 @@
             {
                 "imageURL": "https://raw.githubusercontent.com/savePlanetEarthToken/SavePlanetEarth/main/assets/team/waqar.jpeg",
                 "name": "Prof. Waqar Ahmed",
-                "designation": "Technical Advisor",
-                "description": "Over 30 years of industrial and academic experience in engineering and science. Leads the Experimental Nano physics Group focusing on Renewable Energy Technology and Sustainability. Accredited with over 500 publications on a range of engineering and science journals and has worked across many projects throughout Europe, Middle East, USA and Asia.",
+                "designation": "Consultor Técnico",
+                "description": "Mais de 30 anos de experiência industrial e acadêmica em engenharia e ciência. Lidera o Grupo de Nano Física Experimental centrado na Tecnologia de Energias Renováveis e Sustentabilidade. Credenciado com mais de 500 publicações numa gama de revistas de engenharia e ciência e tem trabalhado em muitos projetos em toda a Europa, Médio Oriente, EUA e Ásia.",
                 "socials": []
             },
             {
                 "imageURL": "https://raw.githubusercontent.com/savePlanetEarthToken/SavePlanetEarth/main/assets/team/bart.png",
                 "name": "Bart Baker",
-                "designation": "Marketing Advisor",
-                "description": "Bart Baker is the No.1 American influencer in all of China with over 40M followers worldwide and over 25 million followers in China across Douyin, Kuaishou, and Weibo. In the United States Bart also has over 16M followers with 10M on his YouTube alone.   Baker has been involved in the crypto space since 2018 and he helped Brave get over 1 million downloads of its web browser.   He also has contacts in media worldwide and is helping SavePlanetEarth reach widespread awareness.",
+                "designation": "Consultor de Marketing",
+                "description": "Bart Baker é o influenciador americano nº 1 em toda a China, com mais de 40 milhões de seguidores em todo o mundo e mais de 25 milhões de seguidores na China através do Douyin, Kuaishou, e Weibo. Nos Estados Unidos, Bart também tem mais de 16M seguidores com 10M só no seu YouTube.  Baker tem estado envolvido no espaço criptográfico desde 2018 e ajudou Brave a obter mais de 1 milhão de downloads do seu navegador de Internet.   Também tem contatos nos meios de comunicação social em todo o mundo e está ajudando a SavePlanetEarth a atingir uma consciencialização difundida.",
                 "socials": [
                     {
                         "imageURL": "https://raw.githubusercontent.com/savePlanetEarthToken/SavePlanetEarth/main/assets/socials/twitter.png",
@@ -383,8 +383,8 @@
             {
                 "imageURL": "https://raw.githubusercontent.com/savePlanetEarthToken/SavePlanetEarth/main/assets/team/aaron.jpeg",
                 "name": "Aaron Bernhardt",
-                "designation": "Developer",
-                "description": "Full-stack engineer with experience in JavaScript - jQuery, bootstrap, and Infragistics, HTML, C#/ASP.NET - MVC architecture, LINQ library, building models, controllers, and views using the above languages; Dependency Injection, Entity Framework SQL (T-SQL). Python.",
+                "designation": "Desenvolvedor",
+                "description": "Engenheiro Full-stack com experiência em JavaScript - jQuery, bootstrap, and Infragistics, HTML, C#/ASP.NET - MVC architecture, LINQ library, building models, controllers, and views using the above languages; Dependency Injection, Entity Framework SQL (T-SQL). Python.",
                 "socials": [
                     {
                         "imageURL": "https://raw.githubusercontent.com/savePlanetEarthToken/SavePlanetEarth/main/assets/socials/linkedin.png",
@@ -397,52 +397,52 @@
         ]
     },
     "faq": {
-        "title": "Frequently Asked Questions",
+        "title": "Perguntas Frequentes",
         "questions": [
             {
-                "question": "How does SavePlanetEarth plan to combat the climate crisis?",
-                "answer": "With strategic coordination via nation-states such as Sri Lanka, Maldives, UK, and others worldwide, alongside using donations indefinitely to fund the efforts, we plan to launch a massive initiative to help with carbon sequestration."
+                "question": "Como a SavePlanetEarth paneja combater a crise climática?",
+                "answer": "Com coordenação estratégica através de estados-nação como o Sri Lanka, Maldivas, Reino Unido, e outros em todo o mundo, juntamente com a utilização de doações por tempo indefinido para financiar os esforços, planeamos lançar uma iniciativa maciça para ajudar no sequestro de carbono."
             },
             {
-                "question": "How does the sponsorship program and fund mechanism of SavePlanetEarth work?",
-                "answer": "SavePlanetEarth derives funds for growing trees through two main mechanisms: Climate wallet and direct sponsorships from donors, well-wishers, institutions, etc. The second mechanism of generating funds for SavePlanetEarth is through direct sponsorships from donors, well-wishers, institutions, etc., that you can consider helping us be able to do!"
+                "question": "Como funciona o programa de patrocínio e o mecanismo de financiamento do SavePlanetEarth?",
+                "answer": "SavePlanetEarth obtém fundos para o cultivo de árvores através de dois mecanismos principais: Carteira climática e patrocínios diretos de doadores, benfeitores, instituições, etc. O segundo mecanismo de geração de fundos para SavePlanetEarth é através de patrocínios diretos de doadores, benfeitores, instituições, etc., que podem considerar ajudar-nos a conseguir fazer!"
             },
             {
-                "question": "What are Legal Safeguards for funds we help create?",
-                "answer": "All funds received and used by the SavePlanetEarth program are accountable for on the blockchain. As the program is registered also in the UK, it is subject to the purview of and oversight by the British Accounting System. Our association with the Governments also keeps an austere, checks and balances system well in place."
+                "question": "O que são as Garantias Legais para os fundos que ajudamos a criar?",
+                "answer": "Todos os fundos recebidos e utilizados pelo programa SavePlanetEarth são contabilizados na blockchain. Como o programa está registrado também no Reino Unido, está sujeito à competência e supervisão do Sistema de Contabilidade Britânico. A nossa associação com os Governos também mantém um sistema austero, de controle e equilíbrio bem implementado."
             },
             {
-                "question": "What makes SavePlanetEarth and its programs distinctly efficient than other sequestration programs?",
-                "answer": "The SavePlanetEarth program is designed to avert bulky bureaucratic processes that impede development. We do so by securing formidable ties with local administrators and action groups in a swift yet accountable manner. To do this an empowerment system would be made operative where we institute horizontal management systems in addition to established management structures and make them overall efficient by recourse to time study, and work measurement all part of work-study among our field practitioners."
+                "question": "O que torna o SavePlanetEarth e os seus programas mais eficientes do que outros programas de sequestro?",
+                "answer": "O programa SavePlanetEarth foi concebido para evitar processos burocráticos volumosos que impedem o desenvolvimento. Para isso, asseguramos ligações formidáveis com administradores locais e grupos de ação de uma forma rápida mas responsável. Para tal, seria operativo um sistema de empoderamento onde instituímos sistemas de gestão horizontal, para além das estruturas de gestão estabelecidas, e os tornamos globalmente eficientes através do recurso ao estudo do tempo, e à medição do trabalho, tudo parte do trabalho-estudo entre os nossos profissionais de campo."
             },
             {
-                "question": "If I were to contact SavePlanetEarth to start an Action Group in my own country, How do I start ?",
-                "answer": "Please email us at <a href='mailto:initiatives@saveplanetearth.io'>initiatives[at]saveplanetearth.io</a> for an initial discussion. We welcome tree planting in every corner of the globe. All funds received and deployed by the SavePlanetEarth program are accountable for on the blockchain. As the program is registered also in the UK, it is subject to the purview of and oversight by the British Accounting System. Our association with the Governments also keeps an austere, checks and balances system well in place."
+                "question": "Se eu fosse contatar SavePlanetEarth para iniciar um Grupo de Ação no meu próprio país, como eu faço?",
+                "answer": "Por favor, nos envie um e-mail em <a href='mailto:initiatives@saveplanetearth.io'>initiatives[at]saveplanetearth.io</a> para uma discussão inicial. Acolhemos a plantação de árvores em todos os cantos do globo."
             }
         ]
     },
     "donation": {
-        "title": "Support the project",
-        "addressCopy": "Address copied Successfully",
+        "title": "Ajude o projeto",
+        "addressCopy": "Endereço Copiado com Sucesso",
         "wallets": [
             {
                 "address": "0x51E6d08721401f2ec874C996fcE0f1bCBF9317c9",
-                "description": "We're not a charity token, but we accept donations towards the work we're doing to develop the project and help preserve the environment. This is the official SavePlanetEarth ERC20/BEP20 address for crypto donations, all forms of crypto are accepted.",
+                "description": "Não somos um token de caridade, mas aceitamos doações para o trabalho que estamos fazendo para desenvolver o projeto e ajudar a preservar o meio ambiente. Este é o endereço oficial SavePlanetEarth ERC20/BEP20 para doações de criptomoedas, todas as formas de criptos são aceitas.",
                 "enabled": true
             }
         ]
     },
     "contact": {
-        "title": "Send us a Message",
-        "description": "Feel free to reach out with any suggestions or inquiries you may have!",
-        "firstName": "First Name",
-        "lastName": "Last Name",
+        "title": "Converse conosco",
+        "description": "Sinta-se à vontade para fazer quaisquer sugestões ou perguntas que possa ter!",
+        "firstName": "Nome",
+        "lastName": "Sobrenome",
         "email": "Email",
-        "reason": "Reason for Message",
-        "message": "Your Message",
-        "submit": "Submit"
+        "reason": "Assunto",
+        "message": "Sua mensagem",
+        "submit": "Enviar"
     },
     "footer": {
-        "description": "Save Planet Earth. All Rights Reserved.\nWebsite design by Convene Studio."
+        "description": "Save Planet Earth. Todos os direitos reservados.\nWebsite design by Convene Studio."
     }
 }

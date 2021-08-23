@@ -3,42 +3,42 @@
     "navigation": {
         "home": "Home",
         "homeLabel": "Home",
-        "about": "Info sul progetto",
+        "about": "Info su SPE",
         "aboutLabel": "About",
         "documents": "Documenti",
         "whitepaper": "Whitepaper",
         "certik": "Revisione Certik",
         "techrate": "Revisione di TechRate",
-        "roadmap": "Tabella di marcia",
+        "roadmap": "Roadmap",
         "roadmapLabel": "Roadmap",
-        "tokenomics": "Economia del token",
+        "tokenomics": "Tokenomics",
         "tokenomicsLabel": "Tokenomics",
         "markets": "Mercati",
-        "team": "Il nostro team",
+        "team": "Il team",
         "teamLabel": "Our Team",
         "contact": "Contattaci",
         "contactLabel": "Contact Us",
         "blog": "Blog",
-        "metamask": "Aggiungi a MetaMask",
+        "metamask": "Add to MetaMask",
         "buy": "Compra ora",
         "metamaskError": "C'è stato un problema nell'aggiungere il token",
         "metamaskChainError": "Passa a Smart Chain Network",
         "metamaskSuccess": "Aggiunti con successo gli $SPE al tuo MetaMask"
     },
     "hero": {
-        "description": "Un progetto Crypto di sequestro del carbonio",
+        "description": "Un progetto Crypto per il sequestro del carbonio",
         "charts": "Grafici",
         "contractCopy": "Indirizzo del contratto copiato con successo"
     },
     "introduction": {
         "title": "Save Planet Earth Crypto Token",
-        "description": "Attraverso partnership strategiche, supporto accademico e una forte comunità di criptovalute in crescita, abbiamo raggruppato gli ingredienti per cambiare significativamente il paesaggio della terra attraverso il sequestro del carbonio in coordinamento con le organizzazioni umanitarie internazionali e il pubblico. I nostri obiettivi generali includono lo sviluppo di un verde potenziato (copertura arborea) e una migliore gestione marina, e fare pressione per controlli legali più significativi e raggiungere la maturità del mercato commerciale per svegliarsi e affrontare i costi reali del cambiamento climatico.",
-        "buyInstructions": "Vedi come acquistare istruzioni"
+        "description": "Attraverso partnership strategiche, supporto accademico e una forte comunità di criptovalute in crescita, abbiamo raggruppato gli ingredienti per cambiare significativamente il paesaggio della terra attraverso il sequestro del carbonio, in coordinamento con le organizzazioni umanitarie internazionali e il pubblico. I nostri obiettivi generali includono lo sviluppo del 'green' (copertura arborea) e una migliore gestione dei mari, fare pressione per controlli legali più significativi e raggiungere la maturità del mercato commerciale per svegliarsi e affrontare i costi reali del cambiamento climatico.",
+        "buyInstructions": "Vedi come acquistare"
     },
     "tokenData": {
         "holdersTitle": "Holders Totali",
-        "holdersDescription": "Il nostro prezioso numero di mani di diamante",
-        "treesTitle": "Alberi in appalto",
+        "holdersDescription": "Il nostro prezioso numero di holders",
+        "treesTitle": "Alberi contrattati",
         "treesDescription": "Quantità totale di alberi che SPE si è impegnata a piantare",
         "burntTokensTitle": "Tokens Bruciati",
         "burntTokensDescription": "Quantità totale di SPE bruciata in modo permanente"
@@ -60,7 +60,7 @@
         "download": "Scarica il White Paper"
     },
     "roadmap": {
-        "title": "Tabella di marcia",
+        "title": "Roadmap",
         "roadmapData": [
             {
                 "title": "Fase 01",
@@ -223,7 +223,7 @@
         "roadmapEndText": "E oltre..."
     },
     "tokenomics": {
-        "title": "Tokenomics di base",
+        "title": "Tokenomics",
         "hint": "Premi le schede per rivelare Tokenomics",
         "totalSupplyTitle": "Offerta totale",
         "totalSupplyDescription": "La quantità totale di token creati",
@@ -237,7 +237,7 @@
         "rewardsDescription": "Noi ricompensiamo i nostri titolari! Il 2% di ogni transazione va istantaneamente ai titolari di SPE, proporzionalmente alle loro partecipazioni."
     },
     "team": {
-        "title": "Squadra principale",
+        "title": "La squadra principale",
         "description": "Andare avanti con una squadra completamente doxxed è una priorità per noi. Vogliamo che i titolari e la comunità si sentano fiduciosi nei loro investimenti e speriamo di fornire quanta più trasparenza possibile!",
         "members": [
             {
