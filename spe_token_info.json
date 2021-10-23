@@ -32,31 +32,31 @@
     "tokenomics": [
         {
             "title": "Total Supply",
-            "value": 1000000000000000,
+            "value": 1000000000,
             "description": "The total amount of tokens created",
             "lottieAssetPath": "assets/animations/total-supply.json"
         },
         {
             "title": "Tokens Burnt",
-            "value": 407171052317891,
+            "value": 407000000,
             "description": "Total amount of SPE permanently burned",
             "lottieAssetPath": "assets/animations/tokens-burnt.json"
         },
         {
             "title": "Pre Sale",
-            "value": 250000000000000,
+            "value": 250000000,
             "description": "Tokens not sold were burnt",
             "lottieAssetPath": "assets/animations/pre-sale.json"
         },
         {
             "title": "PCS LP",
-            "value": 200000000000000,
+            "value": 200000000,
             "description": "Pancake Swap Listing Pool",
             "lottieAssetPath": "assets/animations/listing-pool.json"
         },
         {
             "title": "Locked Marketing",
-            "value": 145000000000000,
+            "value": 121000000,
             "description": "100% Locked Team Tokens Vested over time via DxSale for marketing purposes and manual burns",
             "lottieAssetPath": "assets/animations/locked-marketing.json"
         }
