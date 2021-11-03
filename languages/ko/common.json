@@ -6,7 +6,7 @@
         "about": "소개",
         "aboutLabel": "About",
         "documents": "자료",
-        "whitepaper": "백서",
+        "whitepaper": "백서 v3",
         "certik": "Certik Audit",
         "techrate": "TechRate Audit",
         "roadmap": "로드맵",
@@ -21,6 +21,9 @@
         "blog": "블로그",
         "metamask": "MetaMask에 추가",
         "buy": "바로 구매",
+        "buyPCSv1": "바로 구매 PCS",
+        "speSwap": "SPE Swap",
+        "fundsWarningMessage": "이 주소로 자금을 보내지 마십시오. 그렇지 않으면 손실됩니다. Pancakeswap 또는 SPESwap을 사용하십시오.",
         "metamaskError": "토큰을 추가하는 데 문제가 있음",
         "metamaskChainError": "스마트 체인 네트워크로 바꾸기",
         "metamaskSuccess": "$SPE를 MetaMask에 성공적으로 추가 완료"

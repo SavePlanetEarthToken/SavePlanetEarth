@@ -6,7 +6,7 @@
         "about": "Over",
         "aboutLabel": "Over",
         "documents": "Documenten",
-        "whitepaper": "Whitepaper",
+        "whitepaper": "Whitepaper v3",
         "certik": "Certik Audit",
         "techrate": "TechRate Audit",
         "roadmap": "Roadmap",
@@ -21,6 +21,9 @@
         "blog": "Blog",
         "metamask": "Voeg toe aan MetaMask",
         "buy": "Koop nu",
+        "buyPCSv1": "Koop nu PCS",
+        "speSwap": "SPE Swap",
+        "fundsWarningMessage": "Stuur GEEN geld naar dit adres of ze gaan verloren, gebruik Pancakeswap of SPESwap",
         "metamaskError": "Er was een probleem met het toevoegen van het token",
         "metamaskChainError": "Verander naar Smart Chain Network",
         "metamaskSuccess": "$SPE is succesvol toegevoegd aan jouw MetaMask"
@@ -45,7 +48,7 @@
     },
     "cciIndex": {
         "title": "CCI Index",
-        "explanation": "Door ton vastgelegd equivalent te gebruiken (101.015.342 bomen zijn gecontracteerd om geplant en gemonitord te worden, wat gemiddeld 1 tCO2e per boom oplevert), kunnen we de CCI-waarde berekenen.\nCCI van $SPE = Hoeveel koolstof we hebben vastgelegd, gedeeld door SPE tokens in omloop.",
+        "explanation": "Door gebruik te maken van de CO2 reductie equivalent voor bomen (101.015.342 bomen zijn gecontracteerd om geplant en gemonitord te worden, wat gemiddeld 1 tCO2e per boom oplevert) kunnen we de CCI-waarde berekenen. CCI van $SPE = Hoeveelheid CO2 reductie dat we hebben gerealiseerd, gedeeld door SPE tokens in omloop.",
         "description": "Het bovenstaande model gaat ervan uit dat alle bomen worden gecontroleerd nadat ze zijn geplant, en maakt gebruik van het cumulatie-effect. Naarmate we koolstof vastleggen, hebben we meer credits om te verkopen, waarvan de opbrengst naar de vastlegging van extra koolstof gaat en op zijn beurt meer koolstofkredieten oplevert, waardoor een positief opbouwend effect ontstaat."
     },
     "globalWarmingIndex": {

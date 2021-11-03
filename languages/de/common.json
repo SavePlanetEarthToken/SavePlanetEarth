@@ -6,7 +6,7 @@
         "about": "Über uns",
         "aboutLabel": "About",
         "documents": "Dokumente",
-        "whitepaper": "Whitepaper",
+        "whitepaper": "Whitepaper v3",
         "certik": "Certik Audit",
         "techrate": "TechRate Audit",
         "roadmap": "Roadmap",
@@ -21,6 +21,9 @@
         "blog": "Blog",
         "metamask": "Zu MetaMask hinzufügen",
         "buy": "Kaufen",
+        "buyPCSv1": "Kaufen PCS",
+        "speSwap": "SPE Swap",
+        "fundsWarningMessage": "Sende keine SPE an diese Wallet. Diese werden verloren gehen. Benutze dafür ausschliesslich Pancakeswap oder SPESwap.",
         "metamaskError": "Es gab ein Problem den Token hinzuzufügen",
         "metamaskChainError": "Wechsle auf das Smart Chain Netzwerk",
         "metamaskSuccess": "$SPE wurde erfolgreich zu MetaMask hinzugefügt"

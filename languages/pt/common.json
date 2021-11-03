@@ -6,7 +6,7 @@
         "about": "Sobre",
         "aboutLabel": "About",
         "documents": "Documentos",
-        "whitepaper": "Whitepaper",
+        "whitepaper": "Whitepaper v3",
         "certik": "Auditoria Certik",
         "techrate": "TechRate Auditoria",
         "roadmap": "Roadmap",
@@ -21,6 +21,9 @@
         "blog": "Blog",
         "metamask": "Adicione ao MetaMask",
         "buy": "Compre Agora",
+        "buyPCSv1": "Compre Agora PCS",
+        "speSwap": "SPE Swap",
+        "fundsWarningMessage": "NÃO envie valores para esse endereço ou eles serão perdidos, use pancakeswap ou speswap",
         "metamaskError": "Há um problema para adicionar o token",
         "metamaskChainError": "Mude para a Smart Chain Network",
         "metamaskSuccess": "$SPE adicionado com sucesso em seu MetaMask"

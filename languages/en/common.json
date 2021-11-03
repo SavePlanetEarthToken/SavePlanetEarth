@@ -21,6 +21,9 @@
         "blog": "Blog",
         "metamask": "Add to MetaMask",
         "buy": "Buy Now",
+        "buyPCSv1": "Buy from PCS",
+        "speSwap": "SPE Swap",
+        "fundsWarningMessage": "Do NOT send funds to these addresses or they will be lost, use Pancakeswap, or SPESwap",
         "metamaskError": "There was a problem adding the token",
         "metamaskChainError": "Switch to Smart Chain Network",
         "metamaskSuccess": "Successfully added $SPE to your MetaMask"
