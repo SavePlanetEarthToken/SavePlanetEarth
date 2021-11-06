@@ -140,20 +140,6 @@
                     "socialName": "Twitter"
                 }
             ]
-        },
-        {
-            "imageURL": "https://raw.githubusercontent.com/aseef17/SavePlanetEarth/main/assets/team/aaron.jpeg",
-            "name": "Aaron Bernhardt",
-            "designation": "Developer",
-            "description": "Full-stack engineer with experience in JavaScript - jQuery, bootstrap, and Infragistics, HTML, C#/ASP.NET - MVC architecture, LINQ library, building models, controllers, and views using the above languages; Dependency Injection, Entity Framework SQL (T-SQL). Python.",
-            "socials": [
-                {
-                    "imageURL": "https://raw.githubusercontent.com/aseef17/SavePlanetEarth/main/assets/socials/linkedin.png",
-                    "clickable": true,
-                    "redirectURL": "https://www.linkedin.com/in/aaron-bernhardt-143893b9",
-                    "socialName": "LinkedIn"
-                }
-            ]
         }
     ]
 }
