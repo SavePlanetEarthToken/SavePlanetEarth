@@ -44,23 +44,9 @@
             ]
         },
         {
-            "imageURL": "https://raw.githubusercontent.com/aseef17/SavePlanetEarth/main/assets/team/mohan.jpg",
-            "name": "Prof. Mohan Munasinghe",
-            "designation": "",
-            "description": "• Former Vice-Chair of the Intergovernmental Panel on Climate Change (IPCC), which shared the 2007 Nobel Peace Prize with former Vice-President of the United States Al Gore.\n• Founder Chairman of the Munasinghe Institute for Development (MInD) and MInD Group.\n• Professor of Sustainable Development Studies at various international universities including the University of Manchester, Peking University and Federal University Brazil, and is a Senior Advisor to the Government of Sri Lanka and formerly the US Government.",
-            "socials": [
-                {
-                    "imageURL": "https://raw.githubusercontent.com/aseef17/SavePlanetEarth/main/assets/socials/website.png",
-                    "clickable": true,
-                    "redirectURL": "http://www.mohanmunasinghe.com/",
-                    "socialName": "Website"
-                }
-            ]
-        },
-        {
             "imageURL": "https://raw.githubusercontent.com/aseef17/SavePlanetEarth/main/assets/team/sanith.jpg",
             "name": "Sanith de Silva Wijeyeratne",
-            "designation": "",
+            "designation": "Carbonomics Advisor",
             "description": "After assuming responsibility for the overall management and strategic direction of the company Sanith has guided the company to not only become the most recognised provider of carbon assessment, mitigation and offset solutions, but also to become known for its expertise in a diverse array of sustainability solutions.",
             "socials": [
                 {
