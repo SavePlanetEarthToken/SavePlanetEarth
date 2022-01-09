@@ -1,7 +1,7 @@
 {
     "maintenance": false,
     "whitePaperURL": "https://saveplanetearth.io/SPE_WhitePaper.pdf",
-    "swapURL": "https://pancakeswap.finance/swap?outputCurrency=0xdbaaa36b347d56b77ce0e36f050fceebbf9fbc38",
+    "swapURL": "https://swap.saveplanetearth.io/#/",
     "announcements": [
         {
             "announcementType": "news",
