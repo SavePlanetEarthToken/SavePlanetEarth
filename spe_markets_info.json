@@ -1,19 +1,11 @@
 {
     "updated_on": "2021-05-26 11:39:25",
     "featured": {
-        "name": "BitMart",
-        "description": "A Premier Global Digital Assets Exchange, BitMart is a centralized exchange based in the Cayman Islands. It also has four offices located in New York, China, Hong Kong, and Seoul. It supports spot trading, OTC trading, and USD trading. Serving 180+ countries with more than 5,000,000 customers served, it reaches daily volumes of well over $1 billion and currently has 230+ coins/tokens available for trading.",
-        "redirectURL": "https://www.bitmart.com/trade/en?layout=basic&symbol=SPE_USDT"
+        "name": "LBank",
+        "description": "LBank is the world’s leading crypto asset trading platform providing safe, professional and convenient crypto asset exchange services, derivatives services, currency quantification, currency interest generation and other businesses for global users.",
+        "redirectURL": "https://www.lbank.info/exchange/spe/usdt/#usd"
     },
     "markets": [
-        {
-            "darkimageURL": "https://raw.githubusercontent.com/SavePlanetEarthToken/SavePlanetEarth/main/assets/markets/bitmart-dark.png",
-            "imageURL": "https://raw.githubusercontent.com/SavePlanetEarthToken/SavePlanetEarth/main/assets/markets/bitmart.png",
-            "name": "BitMart",
-            "redirectURL": "https://www.bitmart.com/trade/en?layout=basic&symbol=SPE_USDT",
-            "tradePair": "USDT",
-            "listed": "05.25.2021"
-        },
         {
             "darkimageURL": "https://raw.githubusercontent.com/SavePlanetEarthToken/SavePlanetEarth/main/assets/markets/hotbit-dark.png",
             "imageURL": "https://raw.githubusercontent.com/SavePlanetEarthToken/SavePlanetEarth/main/assets/markets/hotbit.png",
